@@ -1,4 +1,4 @@
-package com.bbbwdc.netty.bio;
+package com.bbbwdc.netty;
 
 import java.io.*;
 import java.net.ServerSocket;
